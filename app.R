@@ -174,12 +174,8 @@ ui <- navbarPage(
                 width = 8, offset = 2,
                 box(
                     width = 12, solidHeader = FALSE,
-                    HTML("Author: Viet Pham <br>
-          Student number: 30925363 <br>
-          Lab number: 19 <br>
-          Tutors: Jeffery Liu, Niranjan Nanjunda <br><br>
-          This is a final Narrative Visualisation Project for FIT5147. <br><br>
-          It focuses on exploring the trend in Pupil-Teacher Ratio 
+                    HTML("Author: Viet Pham <br><br>
+          This Narrative Visualisation Project focuses on exploring the trend in Pupil-Teacher Ratio 
           for multiple different countries across the world and its impact on secondary students' performance, specifically PISA scores, 
           trying to get a clearer idea whether lowering the ratio leads to better outcomes as often suggested.<br><br>
           The intended audience are parents, education policy makers and any one interested in the education sector in general. <br><br>
