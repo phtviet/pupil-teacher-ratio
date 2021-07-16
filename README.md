@@ -1,8 +1,8 @@
 # Pupil-Teacher Ratio trend around the world and their impact on secondary students' performance, measured by publicly available PISA scores
 > This narrative visualisation project focuses on exploring the trend in Pupil-Teacher Ratio for multiple different countries across the world and its impact on secondary students' performance, specifically PISA scores, trying to get a clearer idea whether lowering the ratio leads to better outcomes as often suggested.
 
-The intended audience are parents, education policy makers and any one interested in the education sector in general.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+<!-- The intended audience are parents, education policy makers and any one interested in the education sector in general.
+> Live demo [_here_](https://www.example.com). If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -68,7 +68,7 @@ To do:
 
 
 ## Contact
-Created by [Viet Pham](phtviet@gmail.com) - feel free to contact me!
+Created by Viet Pham - feel free to contact me!
 
 
 <!-- Optional -->
