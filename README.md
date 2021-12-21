@@ -66,7 +66,8 @@ To do:
 
 
 ## Acknowledgements
-- This project was inspired by https://shiny.rstudio.com/gallery/masters.html
+- This project was inspired by a story in the book 'David and Goliath: Underdogs, Misfits, and the Art of Battling Giants' by Malcolm Gladwell.
+- The design for this project was inspired by https://shiny.rstudio.com/gallery/masters.html
 
 
 ## Contact
